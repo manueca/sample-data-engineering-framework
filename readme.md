@@ -1,6 +1,6 @@
 
 
-# tsParticles - TypeScript Particles
+# Sample Data Engineering project which can demonstrate how the code can be organised in a scalable and maintainable way
 
 **A lightweight TypeScript library for creating particles. Dependency free (\*), browser ready and compatible with
 React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.js, Solid.js, and Web Components**
